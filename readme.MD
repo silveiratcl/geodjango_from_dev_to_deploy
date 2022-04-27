@@ -83,7 +83,7 @@ Now your site will be running in this url: http://localhost:8000/
 
 For the deployment of this web-GIS you can check this blog in dev.to [Web-GIS Deployment in Ubuntu server (Nginx + Tomcat + PostGIS)](https://dev.to/iamtekson/deploy-web-gis-in-ubuntu-server-nginx-tomcat-postgis-259j)
 
-
+<!-- 
 ### Appreciate:
 If you liked my work, show some :heart: by :star: repo.
 
@@ -104,3 +104,5 @@ style="max-width:90%;" width="200" height="60">
  </tr>
  </table>
 </p> 
+
+-->
